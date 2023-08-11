@@ -7,7 +7,7 @@ import java.util.List;
 
 public interface BrandMapper {
 
-
+    //  注释test
     //git_test：查询功能实现
     //git_test：登出功能实现
 
